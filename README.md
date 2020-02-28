@@ -13,10 +13,15 @@ Users should be able to enter virtual bar codes corresponding to both version 4 
 Bank Bar Code Guide : https://www.finanssiala.fi/maksujenvalitys/dokumentit/Bank_bar_code_guide.pdf
 
  Version 4: 
+
 Account No. Sp. 79 4405 2020 0360 82 
+
 Total: 4,883.15
+
 Reference number: 86851 62596 19897 
+
 Due Date: 12.06.2010
+
 Virtual code: 479440520200360820048831500000000868516259619897100612 
 
  Version 5: 
