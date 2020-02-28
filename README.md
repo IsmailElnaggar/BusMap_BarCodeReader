@@ -4,6 +4,7 @@ Client Side UTU school project
 Client side development class taken at Åbo Akademi University.
 
 Exercises completed using HTML, CSS, and JavaScript
+-----------------------------------------------------------------
 
 
 
