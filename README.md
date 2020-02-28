@@ -11,7 +11,7 @@ EXERCISE 2:  Decoding invoice information in JavaScript
 
 Users should be able to enter virtual bar codes corresponding to both version 4 or version 5 of the Bank Bar Code 
 
-Exercise 2 link: https://it-teaching-abo-akademi.github.io/csdewas-project-1-IsmailElnaggar/exc2.html
+**Exercise 2 link: https://it-teaching-abo-akademi.github.io/csdewas-project-1-IsmailElnaggar/exc2.html**
 
 Bank Bar Code Guide : https://www.finanssiala.fi/maksujenvalitys/dokumentit/Bank_bar_code_guide.pdf
 
@@ -45,8 +45,10 @@ EXERCISE 3: Föli buses and routes
 
 You need to implement a responsive web page displaying the real-time location of buses in Turku and their corresponding routes. 
 
-Exercise 3 link: https://it-teaching-abo-akademi.github.io/csdewas-project-1-IsmailElnaggar/exc3.html
+**Exercise 3 link: https://it-teaching-abo-akademi.github.io/csdewas-project-1-IsmailElnaggar/exc3.html**
+
 Bus route API used: http://data.foli.fi/doc/gtfs/v0/routes-en 
+
 leafletjs for interactive maps: https://leafletjs.com/examples/quick-start/
 
 
@@ -57,4 +59,4 @@ EXERCISE 1:  Responsive Layout, Animations and Interactivity (20 points)
 
 Your task is to build a responsive web page according to the following sketch
 
-Exercise 1 link: https://it-teaching-abo-akademi.github.io/csdewas-project-1-IsmailElnaggar/exc1.html
+**Exercise 1 link: https://it-teaching-abo-akademi.github.io/csdewas-project-1-IsmailElnaggar/exc1.html**
