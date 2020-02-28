@@ -7,7 +7,7 @@ Exercises completed using HTML, CSS, and JavaScript
 -----------------------------------------------------------------
 
 
-
+------------------------------------------------------------------
 EXERCISE 2:  Decoding invoice information in JavaScript (20 points) 
 
 Exercise 2 link: https://it-teaching-abo-akademi.github.io/csdewas-project-1-IsmailElnaggar/exc2.html
