@@ -7,7 +7,6 @@ Exercises completed using HTML, CSS, and JavaScript
 -----------------------------------------------------------------
 
 
-------------------------------------------------------------------
 EXERCISE 2:  Decoding invoice information in JavaScript
 
 Exercise 2 link: https://it-teaching-abo-akademi.github.io/csdewas-project-1-IsmailElnaggar/exc2.html
@@ -54,7 +53,7 @@ Exercise 3 link: https://it-teaching-abo-akademi.github.io/csdewas-project-1-Ism
 ----------------------------------------------------------------------------
 
 
-Exercise 1:  Responsive Layout, Animations and Interactivity (20 points)  
+EXERCISE 1:  Responsive Layout, Animations and Interactivity (20 points)  
 
 Your task is to build a responsive web page according to the following sketch
 
