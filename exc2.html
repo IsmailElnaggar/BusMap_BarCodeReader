@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang='en'>
+
+
+
+<head>
+
+    <title>Exercise 2</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="style_exc2.css">
+    <script src="jquery.js"></script>
+    <!-- locally downloading the Jsbarcode script didn't work so i'm using this url idk why it wont work  -->
+    <script src="https://cdn.jsdelivr.net/npm/jsbarcode@3.11.0/dist/barcodes/JsBarcode.code128.min.js"></script>
+    <script src="exc2.js"></script>
+
+</head>
+
+<body>
+
+<div class="index">
+
+<div class="row">
+
+    <div class="column">
+        <form>
+            Virtual Bar Code:
+            <!-- box to enter virtual code -->
+            <input type="text" id="code" name="code" value="Enter The Virtual Code Here" size="25">
+            <br> <br>
+            <div class="px100">
+                <!-- decode button-->
+                <input id="decode" type="button" class="button" value="Decode"/>
+            </div>
+        </form>
+    </div>
+
+    <div class="column">
+        <br> <br>
+        <div class="righttext">
+            <!-- the information displayed changes when hide button is clicked -->
+            <input id="hide" type="button" class="button" value="Hide" onclick="changeDisplay()">
+        </div>
+    </div>
+
+</div>
+
+<div id="hidearea">
+    <div class="frameborder">
+
+            <div class="textarea">
+
+                <div class="row">
+
+                    <!-- Input Text Fields -->
+                    <div class="column">
+                        Payee's IBAN:
+                        <input id="iban" type="text">
+                        <br> <br>
+                        Payment Reference:
+                        <input id="reference" type="text">
+                        <br> <br>
+                    </div>
+
+                    <div class="column">
+                        Amount To Be Paid:
+                        <input id="amount" type="text">
+                        Euro
+                        <br> <br>
+                        Due Date:
+                        <input id="duedate" type="text">
+                        <br> <br>
+
+                    </div>
+
+                </div>
+
+                <div class="center">
+                    <img id="barcode"/>
+                </div>
+
+            </div>
+    </div>
+
+</div>
+
+</div>
+
+</body>
+
+</html>

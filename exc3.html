@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang='en'>
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercise 3</title>
+    <link rel="stylesheet" type="text/css" href="style_exc3.css">
+    <!-- Had to use leaflet.css with leaflet.js i hope this is okay-->
+    <link rel="stylesheet" type="text/css" href="leaflet.css"/>
+    <script src="jquery.js"></script>
+    <script src="leaflet.js"></script>
+    <script src="exc3.js"></script>
+
+ </head>
+
+ <body>
+
+ <div class="index">
+
+     <div class="row">
+         <div class="col-3 righttext">
+             Please Select A Bus Number:
+         </div>
+
+         <!-- Busline menu-->
+        <div class="col-3">
+            <select id=busline name="busline"></select>
+        </div>
+    </div>
+
+    <div class="row">
+        <!-- Buttons -->
+        <div class="col-3">
+            <input class="button" type="submit" value="Show Selected Bus" onclick=busLocation()>
+        </div>
+        <div class="col-3 center">
+            <input class="button" type="submit" value="Refresh Bus Location" onclick=refresh()>
+        </div>
+        <div class="col-3 right">
+            <input class="button" type="submit" value="Show Route" onclick=createRoute()>
+        </div>
+    </div>
+
+    <div class="row">
+        <!-- Map -->
+        <div class="col-11 frameborder">
+            <div id="map"></div>
+
+        </div>
+    </div>
+
+</div>
+
+</body>
+</html>
