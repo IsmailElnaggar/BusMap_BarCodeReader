@@ -12,6 +12,7 @@ EXERCISE 2:  Decoding invoice information in JavaScript
 Exercise 2 link: https://it-teaching-abo-akademi.github.io/csdewas-project-1-IsmailElnaggar/exc2.html
 
 Users should be able to enter virtual bar codes corresponding to both version 4 or version 5 of the Bank Bar Code 
+
 Bank Bar Code Guide : https://www.finanssiala.fi/maksujenvalitys/dokumentit/Bank_bar_code_guide.pdf
 
  Version 4: 
