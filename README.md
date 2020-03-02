@@ -7,7 +7,7 @@ Exercises completed using HTML, CSS, and JavaScript
 -----------------------------------------------------------------
 
 
-EXERCISE 2:  Decoding invoice information in JavaScript
+**EXERCISE 2:  Decoding invoice information in JavaScript**
 
 Users should be able to enter virtual bar codes corresponding to both version 4 or version 5 of the Bank Bar Code 
 
@@ -41,7 +41,7 @@ Virtual code: 502500046400013020006938002000000000698756720834110724
 
 ---------------------------------------------------------------------------
 
-EXERCISE 3: Föli buses and routes
+**EXERCISE 3: Föli buses and routes map**
 
 You need to implement a responsive web page displaying the real-time location of buses in Turku and their corresponding routes. 
 
@@ -55,7 +55,7 @@ leafletjs for interactive maps: https://leafletjs.com/examples/quick-start/
 ----------------------------------------------------------------------------
 
 
-EXERCISE 1:  Responsive Layout, Animations and Interactivity (20 points)  
+**EXERCISE 1:  Responsive Layout, Animations and Interactivity**
 
 Your task is to build a responsive web page according to the following sketch
 
